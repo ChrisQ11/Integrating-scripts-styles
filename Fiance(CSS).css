@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(69, 69, 69);
+    margin:auto;
+}
+div {
+    margin: auto;
+    width: 1200px;
+    background-color: rgb(141, 199, 249);
+}
+h1 {
+    text-align: center;
+    font-size: 100px;
+    /* background-color: aqua; */
+    margin: 67px 150px;
+}
+h2 {
+    text-align: center;
+    vertical-align:tex;
+    font-weight: 200px;
+    font-size: 45px;
+    margin: 0 150px;
+    height: 100px;
+}
+ul {
+    display:table;
+    margin: 0 auto;
+    text-align: left;
+    font-size: 45px;
+}
+button {
+    display: block;
+    margin: 0 auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 50px;
+    border-radius: 30px;
+    border-color: black;
+}
+p {
+    color: rgb(198, 47, 47);
+    font-size: 50px;
+    text-align: center;
+}
